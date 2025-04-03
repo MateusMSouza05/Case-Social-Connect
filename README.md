@@ -14,6 +14,8 @@ O **Social Connect** é um site desenvolvido para apresentar a empresa fictícia
 
 - Mateus Macedo Batista de Souza RM: 563294
 - Felipe Riofrio Cheban Nicolau RM: 563068
--  Gustavo Cavalcanti	RM: 565601
+- Gustavo Cavalcanti	RM: 565601
+- Tomás Antonio Braga Cantuária RM: 563295
+- Daniel Laureano da Luz RM: 565899
   
 
